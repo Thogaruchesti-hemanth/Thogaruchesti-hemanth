@@ -5,6 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thogaruchesti-hemanth&label=Profile%20views&color=0e75b6&style=flat" alt="thogaruchesti-hemanth" /> </p>
 
 
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none;">
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -12,13 +15,21 @@
 
 - 📝 I regularly write articles on [https://learngrowsucceeed.blogspot.com/](https://learngrowsucceeed.blogspot.com/)
 
-- 💬 Ask me about **android, java,html,css,Javascript,supervisedLearning and YOLO**
+- 💬 Ask me about **android, java, html, css, Javascript, supervisedLearning, and YOLO**
 
 - 📫 How to reach me **saihemanth225@gmail.com**
 
 - 📄 Know about my experiences [https://protfolio-taupe.vercel.app/images/my%20resume%20(1).pdf](https://protfolio-taupe.vercel.app/images/my%20resume%20(1).pdf)
 
 - ⚡ Fun fact **My code runs on coffee and curiosity—because every bug is just a feature waiting to be debugged! ☕🐞**
+
+    </td>
+    <td style="border: none; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/96929017-04c3-4921-9ba4-578e04cd729c" alt="Profile Image" width="250" />
+    </td>
+  </tr>
+</table>
+
 
 
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thogaruchesti-hemanth" alt="thogaruchesti-hemanth" /></a> </p>
