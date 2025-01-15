@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://protfolio-taupe.vercel.app/images/my%20resume%20(1).pdf](https://protfolio-taupe.vercel.app/images/my%20resume%20(1).pdf)
 
-- ⚡ Fun fact **My code runs on coffee and curiosity—because every bug is just a feature waiting to be debugged! ☕🐞**
+- ⚡ Fun fact **My code runs on Chai and curiosity—because every bug is just a feature waiting to be debugged! ☕🐞**
 
     </td>
     <td style="border: none; text-align: center;">
