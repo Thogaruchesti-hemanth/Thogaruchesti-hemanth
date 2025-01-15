@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thogaruchesti-hemanth&label=Profile%20views&color=0e75b6&style=flat" alt="thogaruchesti-hemanth" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thogaruchesti-hemanth" alt="thogaruchesti-hemanth" /></a> </p>
+
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -20,6 +20,8 @@
 
 - ⚡ Fun fact **My code runs on coffee and curiosity—because every bug is just a feature waiting to be debugged! ☕🐞**
 
+
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thogaruchesti-hemanth" alt="thogaruchesti-hemanth" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thogaruchesti-hemanth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thogaruchesti-hemanth/" height="30" width="40" /></a>
