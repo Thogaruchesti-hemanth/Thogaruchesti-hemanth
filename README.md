@@ -96,6 +96,12 @@
 <p></p>
 <p></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thogaruchesti-hemanth&show_icons=true&locale=en&layout=compact" alt="thogaruchesti-hemanth" /></p>
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=thogaruchesti-hemanth&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thogaruchesti-hemanth&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=thogaruchesti-hemanth&theme=radical&hide_border=false" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thogaruchesti-hemanth&show_icons=true&locale=en" alt="thogaruchesti-hemanth" /></p>
