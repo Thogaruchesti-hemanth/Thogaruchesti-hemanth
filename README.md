@@ -100,5 +100,5 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=thogaruchesti-hemanth&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thogaruchesti-hemanth&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thogaruchesti-hemanth&layout=compact&theme=radical" alt="Thogaruchesti-hemanth" />
 </p>
