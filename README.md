@@ -15,8 +15,6 @@
 
 <div align="center">
   
-### 📱 Android Development Focus
-
 *Building robust, scalable mobile applications with modern Android development practices*
 
 🎯 *Specializations:* Clean Architecture • MVVM • Jetpack Compose • Room Database • Retrofit • Coroutines
