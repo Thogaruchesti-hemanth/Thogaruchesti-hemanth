@@ -1,8 +1,35 @@
-<img src="https://github.com/user-attachments/assets/a96549fe-8966-472e-b952-616f3a6bcf63">
 <h1 align="center">Hi 👋, I'm Thogaruchesti Hemanth</h1>
-<h3 align="center">A passionate Mobile Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Android+Developer;Open+Source+Contributor;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thogaruchesti-hemanth&label=Profile%20views&color=0e75b6&style=flat" alt="thogaruchesti-hemanth" /> </p>
+<div align="center">
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<div align="center">
+  
+### 📱 Android Development Focus
+
+*Building robust, scalable mobile applications with modern Android development practices*
+
+🎯 *Specializations:* Clean Architecture • MVVM • Jetpack Compose • Room Database • Retrofit • Coroutines
+
+📊 *Current Focus:* Performance Optimization • UI/UX Enhancement • Material Design 3
+
+</div>
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=thogaruchesti-hemanth&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 
 <table style="border-collapse: collapse; border: none;">
@@ -96,10 +123,18 @@
 <p></p>
 <p></p>
 
-## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thogaruchesti-hemanth&show_icons=true&theme=radical&count_private=true" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thogaruchesti-hemanth&layout=compact&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thogaruchesti-hemanth&layout=compact&theme=radical" alt="Thogaruchesti-hemanth" />
-</p>
+### 🔥 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thogaruchesti-hemanth&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thogaruchesti-hemanth&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thogaruchesti-hemanth&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=FF6B6B&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thogaruchesti-hemanth&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=C9D1D9" alt="GitHub Activity Graph"/>
+</div>
