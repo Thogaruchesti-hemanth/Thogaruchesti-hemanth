@@ -61,7 +61,7 @@
 
 </div>
 
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thogaruchesti-hemanth" alt="thogaruchesti-hemanth" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thogaruchesti-hemanth&theme=darkhub"" alt="thogaruchesti-hemanth" /></a> </p>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thogaruchesti-hemanth&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9" alt="GitHub Stats"/>
