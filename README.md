@@ -44,41 +44,22 @@
   <a href="https://leetcode.com/thogaruchesti_hemanth/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  <a href="https://protfolio-taupe.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23007ACC?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://learngrowsucceeed.blogspot.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-%23FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+  </a>
 </p>
+
+
+
 
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=thogaruchesti-hemanth&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
-
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: none;">
-
-- 🌱 I’m currently learning **Flutter**
-
-- 👨‍💻 All of my projects are available at [https://protfolio-taupe.vercel.app/](https://protfolio-taupe.vercel.app/)
-
-- 📝 I regularly write articles on [https://learngrowsucceeed.blogspot.com/](https://learngrowsucceeed.blogspot.com/)
-
-- 💬 Ask me about **android, java, html, css, Javascript, supervisedLearning, and YOLO**
-
-- 📫 How to reach me **saihemanth225@gmail.com**
-
-- 📄 Know about my experiences [https://protfolio-taupe.vercel.app/images/my%20resume%20(1).pdf](https://protfolio-taupe.vercel.app/images/my%20resume%20(1).pdf)
-
-- ⚡ Fun fact **My code runs on Chai and curiosity—because every bug is just a feature waiting to be debugged! ☕🐞**
-
-    </td>
-    <td style="border: none; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/96929017-04c3-4921-9ba4-578e04cd729c" alt="Profile Image" width="250" />
-    </td>
-  </tr>
-</table>
-
-
 
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thogaruchesti-hemanth" alt="thogaruchesti-hemanth" /></a> </p>
 
