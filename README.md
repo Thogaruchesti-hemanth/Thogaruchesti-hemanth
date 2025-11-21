@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thogaruchesti Hemanth</h1>
+<h1 align="center">Hello 👋, I'm Thogaruchesti Hemanth</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Android+Developer;Open+Source+Contributor;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </p>
