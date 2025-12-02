@@ -23,12 +23,13 @@
 </div>
 
 <div align="center">
-  
-*Building robust, scalable mobile applications with modern Android development practices*
 
-🎯 *Specializations:* Clean Architecture • MVVM • Jetpack Compose • Room Database • Retrofit • Coroutines
 
-📊 *Current Focus:* Performance Optimization • UI/UX Enhancement • Material Design 3
+ Android Developer passionate about building modern, scalable, and user-friendly mobile applications.  
+ Skilled in **Kotlin, Jetpack Compose, MVVM, Room, Coroutines, Retrofit, and Clean Architecture**.  
+ Strong focus on **performance, UI/UX, and maintainable code**.  
+ Exploring: Architecture patterns, composing animations, app security, and workflow automation.  
+ Ask me about **Android Development, Kotlin, Room optimisations, EMV/APDU parsing, or Clean Architecture**.
 
 </div>
 
