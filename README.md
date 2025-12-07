@@ -75,3 +75,10 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thogaruchesti-hemanth&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=C9D1D9" alt="GitHub Activity Graph"/>
 </div>
+
+
+<!-- GitHub SEO Keywords:
+Android Developer, Kotlin Developer, Jetpack Compose, Mobile App Developer,
+MVVM, Clean Architecture, Room Database, Firebase, Retrofit, Coroutines,
+Android Engineer, Open Source Contributor, Payment Terminal Developer, EMV, APDU
+-->
