@@ -80,5 +80,5 @@
 <!-- GitHub SEO Keywords:
 Android Developer, Kotlin Developer, Jetpack Compose, Mobile App Developer,
 MVVM, Clean Architecture, Room Database, Firebase, Retrofit, Coroutines,
-Android Engineer, Open Source Contributor, Payment Terminal Developer, EMV, APDU
+Android Engineer, Open Source Contributor, Payment Terminal Developer, EMV, APDU,Java Developer 
 -->
