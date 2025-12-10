@@ -78,7 +78,15 @@
 
 
 <!-- GitHub SEO Keywords:
-Android Developer, Kotlin Developer, Jetpack Compose, Mobile App Developer,
-MVVM, Clean Architecture, Room Database, Firebase, Retrofit, Coroutines,
-Android Engineer, Open Source Contributor, Payment Terminal Developer, EMV, APDU,Java Developer 
+Android Developer, Kotlin Developer, Jetpack Compose Developer, Mobile App Developer,
+Android Engineer, Senior Android Developer, Kotlin Expert, Android Kotlin Engineer,
+MVVM Architecture, Clean Architecture Android, Jetpack Compose UI, Android UI Developer,
+Room Database, Retrofit Developer, Kotlin Coroutines, Dependency Injection Android,
+Hilt Developer, Dagger-Hilt Android, Firebase Developer, Firestore Android,
+REST API Android, API Integration Kotlin, Mobile App Performance Optimization,
+Payment Terminal Developer, EMV Developer, APDU Commands, POS Terminal Developer,
+Secure Payment Systems, ISO 8583, NFC Payments Android,
+Java Developer, Java Mobile Developer, Android SDK Expert,
+Open Source Contributor, Android Open Source Projects,
+Mobile App Architect, Android Freelancer, Android Consultant
 -->
