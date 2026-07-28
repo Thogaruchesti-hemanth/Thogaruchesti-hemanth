@@ -1,4 +1,4 @@
-<h1 align="centre">👋Hello, I'm <strong>Thogaruchesti Hemanth</strong> — If You're Solving Problems, We're Already on the Same Team</h1>
+<h1 align="centre">👋Hello, I'm <strong>Thogoruchesti Hemanth</strong> — If You're Solving Problems, We're Already on the Same Team</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Android+Developer;Open+Source+Contributor;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </p>
@@ -54,21 +54,21 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=thogaruchesti-hemanth&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=thogoruchesti-hemanth&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thogaruchesti-hemanth&theme=darkhub"" alt="thogaruchesti-hemanth" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thogoruchesti-hemanth&theme=darkhub"" alt="thogoruchesti-hemanth" /></a> </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thogaruchesti-hemanth&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thogaruchesti-hemanth&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thogoruchesti-hemanth&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thogoruchesti-hemanth&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thogaruchesti-hemanth&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=FF6B6B&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thogoruchesti-hemanth&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=FF6B6B&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thogaruchesti-hemanth&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=C9D1D9" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thogoruchesti-hemanth&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=C9D1D9" alt="GitHub Activity Graph"/>
 </div>
